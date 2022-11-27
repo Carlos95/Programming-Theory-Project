@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Fighter Ship
+    uniqueID: 3743567587
+    locked: 0
+  - name: Mother Ship
+    uniqueID: 1376826049
+    locked: 0
+  - name: Asteroid
+    uniqueID: 2838866443
     locked: 0
